@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Egwu Vincent Oko |
+| **LinkedIn** | [egwu-oko](https://www.linkedin.com/in/egwu-oko) |
+| **Location** | Nigeria |
+| **Background** | Education, DevOps & AI Enthusiast |
+| **Goal** | Deliver AI-enhanced DevOps automation that improves deployment speed, strengthens infrastructure reliability, and optimizes cloud operations at scale |
 
 ---
 

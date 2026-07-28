@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe real progress comes from hard work, accountability, and shared effort. Money is only a tool, commitments are meant to be honored, and no one succeeds alone. In a world that often celebrates shortcuts and individualism, I stand by the idea that character, responsibility, and collabration matter more than convenience.
 
 ---
 
