@@ -262,9 +262,9 @@ The Domain Name System (DNS) translates human-readable names (like epicreads.com
 👉 Visual Studio Code Setup
 I successfully downloaded and set up my VS Code environment for the tasks ahead.
 
-hashtag#DevOps 
-hashtag#AWS 
-hashtag#DevOps for beginners
+#DevOps 
+#AWS 
+#DevOps for beginners
 
 P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/e_AT7QxG · Start your DevOps journey: https://lnkd.in/eBFJtRPf
 
