@@ -25,16 +25,17 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
+![Task 1 screenshot](screenshots/week-00-task1-screenshot.png)
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
+
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+ChatGPT is a great companion in my journey in DMI. With a well crafted prompt, it can provide answers to technical terms and concepts. It's solutions should always be verified for accuracy and  correctness.
 
 ---
 
@@ -59,7 +60,10 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a US user visits EpicReads (hosted in Finland), his computer sends a request over the internet using packet switching. Packet switching means breaking the data into small packets which travel through several routes and reassemble at the destination. The request is sent to the IP Address of the Finnish server. The IP Address is just like a house address for computers. Communication between computers follows a set of rules - the TCP/IP. The TCP ensures all packets arrive in order and complete, and the IP handles the addressing and delivery. 
+
+Once the server gets the request, it responds using HTTP or HTTPS - the set of rules for web pages. HTTPS adds encryption to the transmission, making it secure. Finally, the user’s browser displays the bookstore’s page. This is just like receiving a letter across the world, piece by piece, in seconds.
+
 
 ---
 
@@ -91,7 +95,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/Task-3-Application-Architecture.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +106,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Django
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +146,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The Domain Name System (DNS) translates human-readable names (epicreads.com) into an IP Address (like 52.172.142.222:3000) so that browsers can find the right server. It is therefore the internet’s phonebook. To connect the domain to the given IP Address, my friend should use an A record. This record maps a domain name directly to an IPv4 address. Hence, users can access the bookstore without typing the IP Address and port.
 
 ---
 
@@ -218,7 +222,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/egwu-oko_devops-for-beginners-docker-k8s-cloud-activity-7360795994587897856-xOuV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs
 ```
 
 ---
@@ -227,7 +231,42 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Having graduated from DMI Cohort 1, I am thrilled to be undertaking the self-paced track of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra.
+
+The Week 0 (Introduction) provided me with an opportunity to have a clearer understanding of how the internet works, networking, and basic tools for DevOps.
+
+At this introductory level, I carried out the following tasks.
+
+👉 Using ChatGPT as a Learning Assistant
+I have understood how to prompt ChatGPT to help me understand technical concepts. ChatGPT is now my learning companion.
+
+👉 Internet and Networking 
+I now have a better understanding of how the internet and networking work. A friend of mine interested in launching an online bookstore - EpicReads wanted an explanation on how US users can access his website hosted in Finland.
+Getting curious? Here is my simple explanation.
+
+When a US user visits EpicReads in Finland, their computer sends a request via packet switching, breaking data into packets that travel different routes and reassemble at the destination. The request goes to the server’s IP address (like a house address), using TCP/IP for reliable delivery and addressing. The server responds via HTTP/HTTPS, with HTTPS adding encryption. The browser then displays the bookstore’s page, much like receiving a letter from across the world in seconds.
+
+👉 Application Architecture and Stack
+EpicReads bookstore has two application versions.
+a. Two-Tier Application - consisting of the frontend and the database
+b. Three-Tier Application - consisting of the frontend, backend, and database.
+The frontend lets users interact with the app using technologies like HTML, CSS, and JavaScript. The backend handles business logic with tools such as Python and Node.js, communicating with the frontend. The database stores data using systems like MySQL and MongoDB.
+
+👉 Domain Name and DNS (Basic Concepts)
+My friend purchased the domain "epicreads.com" and wants to know what DNS is and what DNS record he should use to connect his domain to the IP Address.
+
+Here is my simple answer.
+
+The Domain Name System (DNS) translates human-readable names (like epicreads.com) into an IP Address (like 52.172.142.222) so that browsers can find the right server. It is therefore the internet's phonebook. To connect the domain to the IP Address, he should use an A record.
+
+👉 Visual Studio Code Setup
+I successfully downloaded and set up my VS Code environment for the tasks ahead.
+
+hashtag#DevOps 
+hashtag#AWS 
+hashtag#DevOps for beginners
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/e_AT7QxG · Start your DevOps journey: https://lnkd.in/eBFJtRPf
 
 ---
 
@@ -235,19 +274,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+All the tasks are quite easy
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+There's no task difficult for me.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will have to work more on AI prompting
 
 ---
 
