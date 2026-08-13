@@ -35,6 +35,10 @@ You will reuse this in later weeks. So do it properly once.
 
 I believe real progress comes from hard work, accountability, and shared effort. Money is only a tool, commitments are meant to be honored, and no one succeeds alone. In a world that often celebrates shortcuts and individualism, I stand by the idea that character, responsibility, and collabration matter more than convenience.
 
+I have always believed in giving myself strict guradrails in order not to derail my focus in my chosen life endeavour. Diligent consistency produces expected results. Time is a tool which must be managed diligently to build consistency. I also believe that success doesn't come by mere chance or empty wishes but by a well orchestrated commitment to hardwork, consistency, and time management. 
+
+I usually work my way through pain, patience, and planned investment in time and money for compounded gratification in the future. I must always give my best at all times to ensure the highest quality of work without cutting corners.
+
 ---
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
@@ -55,11 +59,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Systems behave differently under pressure
 
 ### Evidence from my life
 
-Add your answer here...
+I test my schedule during busy periods and not just calm ones. I organize my workspace and set boundaries to avoid bottlenecks. This has helped me build realistics routines
 
 ---
 
@@ -67,11 +71,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Small daily optimizations compound over time
 
 ### Evidence from my life
 
-Add your answer here...
+I review my routines weekly and remove areas of friction. The small weekly improvements simplify my work making it smoother, faster, and less error-prone
 
 ---
 
@@ -79,11 +83,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Self-awareness beats blind reaction
 
 ### Evidence from my life
 
-Add your answer here...
+I track what matters to me such as my mood, sleep, spending, or productivity instead of waiting for problems to come come up. This is made possible through weekly reviews or reflection time. This helps me make better decisions as early signs of burnout are noticed.
 
 ---
 
@@ -135,13 +139,52 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Egwu Oko: The DevOps Engineer Who Quietly Rewrote the Reliability Story of West Africa’s Digital Economy
+
+By the early 2030s, Egwu had emerged as one of the defining DevOps voices in Nigeria’s rapidly expanding technology sector. His ascent wasn’t loud or self-promotional; it was built on the kind of evidence that industry observers pay attention to—systems he architected, pipelines he shipped, outages he prevented, and communities he strengthened.
+A Career Built on Infrastructure, Not Intuition
+Between 2026 and 2033, Egwu relocated from Ebonyi State to a regional tech hub where he joined a mid-sized engineering organization undergoing a painful transition to cloud-native operations. What followed was a period of intense transformation. Egwu became one of the engineers responsible for stabilizing the company’s infrastructure and modernizing its deployment culture.
+By 2029, he had earned a senior DevOps role, overseeing reliability engineering across multiple product teams. Colleagues often credited him with bringing discipline to environments that had previously relied on improvisation.
+
+The Systems That Defined His Work
+Egwu’s impact was measurable. He built and shipped several core systems that reshaped the company’s engineering velocity:
+•	A GitHub Actions CI/CD pipeline that cut deployment time from 45 minutes to under 7.
+•	A Kubernetes microservices platform that lifted uptime from 92% to 99.8%.
+•	A Terraform-managed infrastructure-as-code repository that eliminated configuration drift.
+•	A Prometheus and Grafana observability stack that reduced MTTR by 63%.
+These weren’t abstract achievements—they were systems that executives referenced in quarterly reports and engineers relied on daily.
+
+Proof of Skill in Public Spaces
+Egwu’s GitHub profile became a living archive of his engineering philosophy. He contributed Helm charts, Terraform modules, Bash automation scripts, and Docker hardening guides that were adopted by startups across the region. His repositories were consistently documented, tested, and maintained—rare qualities in an ecosystem still maturing in open-source culture.
+His writing reinforced this credibility. Over 30 DevOps-focused articles published on Medium, helped demystify cloud-native engineering for beginners. His essays on observability, Kubernetes adoption, and infrastructure automation became reference points for junior engineers entering the field.
+
+Certifications That Matched His Work
+Egwu earned certifications that aligned directly with the technologies he deployed:
+•	AWS DevOps Engineer Professional
+•	Certified Kubernetes Administrator (CKA)
+•	HashiCorp Terraform Associate
+•	Azure Administrator Associate
+•	Linux Foundation System Administrator
+These credentials weren’t ornamental; they were practical validations of the systems he built.
+
+Leadership Beyond the Office
+By 2029, Egwu had become a recognizable figure in Nigeria’s DevOps community. He led weekly automation workshops, hosted cloud bootcamps, and contributed to open-source documentation for regional developer groups. His mentorship produced tangible results: more than twenty mentees secured DevOps or Cloud Engineering roles, several launched automation projects, and a handful became conference speakers.
+His influence extended beyond code. He helped shape a culture of reliability and documentation in a region where engineering teams often struggled with both.
+
+A Signature Achievement
+One project stood out. Egwu architected and shipped a multi-region failover system that dramatically reduced downtime during outages. The system saved the company millions in SLA penalties and became a flagship case study in his portfolio. Industry analysts later cited it as one of the most significant reliability upgrades implemented by a mid-sized African tech company during that period.
+
+A Reputation Built on Evidence
+By 2033, Egwu’s professional identity was clear. He was a DevOps Engineer who built resilient systems, a leader who elevated engineering culture, a mentor who strengthened community, and a writer who simplified complexity. His portfolio, GitHub contributions, technical essays, and certifications formed a verifiable timeline of growth—proof that his success was earned through consistent, disciplined engineering.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) - Self-Paced Engineer Track — by Pravin Mishra (https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/vincegwu.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/egwu-oko_dmi-devops-micro-internship-with-agentic-share-7493673851269312514-MbAB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs
 
 ---
 
@@ -173,7 +216,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -199,16 +242,45 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits - James Clear
+![book1](screenshots/Atomic-Habits.jpg)
+
+
+2. Deep Work - Cal Newport
+![book2](screenshots/Deep-Work.jpg)
+
+
+3. The Manager's Path - Camille Fournier
+![book3](screenshots/The-Manager's-Path.jpg)
+
+
+4. The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois, John Willis
+![book4](screenshots/DevOps-Handbook.jpg)
+
+
+5. Crucial Conversations - Patterson, Grenny, McMillian, Switzler
+![book5](screenshots/Crucial-Conversations.jpg)
+
+
+6. The 7 Habits of Highly Effective People - Stephen R. Covey
+![book6](screenshots/7-Habits-Of-Highly-Effective-People.jpg)
+
+
+7. Thinking in Systems - Donella Meadows
+![book7](screenshots/Thinking-in-Systems.jpg)
+
+
+8. Why We Sleep - Matthew Walker
+![book8](screenshots/Why-We-Sleep.jpg)
+
+
+9. The Psychology of Money - Morgan Housel
+![book9](screenshots/The-Psychology-Of-Money.jpg)
+
+
+10. Lateral Thinking - Camille Fournier
+![book10](screenshots/Lateral-Thinking.jpg)
+
 
 ---
 
@@ -237,16 +309,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Tools Learned per Week
+* Learning Hours per Week
+* Projects shipped per Week
+* Teamamtes unblocked per Week
+* Hours slept per day
+* Deep Work Hours per Week
+* Distractions noticed per Week
+* Saving made per Month
+* Meaningful Conversations per Week
+* People helped per Week
 
 ---
 
@@ -272,7 +344,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +362,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Health and Exercise: Daily Morning
+
+Learning: Tuesday, Thursday, Saturday
+
+Deep Work: Monday, Wednesday
+
+Review and Recovery: Saturday and Sunday
 
 ---
 
@@ -298,11 +376,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+DMI Work: Tuesday (90 minutes), Wednesday (180 minutes)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Two sessions per week
 
 ---
 
@@ -316,7 +394,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+1. Keep phone out of reach during deep work hours
+2. Do only one active task at a time
+3. Check messages only at regulated times
+4. Always clear the desk and close irrelevant tabs before starting work
+5. Wait two minutes when you feel the urge to check your phone, social media, or random website.
 
 ---
 
@@ -324,28 +406,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The clear need to rejig my mindset for greater productivity and success
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+The absence of distraction rules and measurement checklist.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Weekly Review (Saturdays and Sundays)
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/egwu-oko_dmi-devops-micro-internship-with-agentic-share-7493673851269312514-MbAB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/egwu-oko_dmi-devops-micro-internship-with-agentic-share-7493673851269312514-MbAB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs**  
+- Blog / Medium : **https://medium.com/@egwuoko76/egwu-oko-the-devops-engineer-quietly-rewriting-west-africas-reliability-story-e2366478e94b**  
 
 ---
 
