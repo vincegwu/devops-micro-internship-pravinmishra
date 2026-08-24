@@ -54,7 +54,10 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 #### Screenshot 4 â€” Claude's response to the first question, showing it read the files (tool calls visible)
 
-![screenshot4](screenshots/claude-response-1.png)
+![screenshot4a](screenshots/claude-response-1-1.png)
+
+
+![screenshot4b](screenshots/claude-response-1-2.png)
 
 ---
 
@@ -75,9 +78,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
-`https://github.com/vincegwu/DevOps-Micro-Internship-with-Agentic-AI.git`
+`https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
