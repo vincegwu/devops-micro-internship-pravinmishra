@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![screenshot1](screenshots/medium-blog.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@egwuoko76/when-ai-stops-suggesting-and-starts-doing-my-week-2-in-agentic-devops-5c0e5f0efec8`
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![screenshot2](screenshots/final-linkedin-post.png)
 
 ---
 
@@ -101,14 +101,39 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+When AI Stops Suggesting and Starts Doing
+My Week 2 reflection on DMI Agentic DevOps
+
+This week, I stopped seeing AI as something that only answers questions—and started seeing what happens when it can act. Week 2 of my self-paced DMI course on Agentic DevOps introduced me to agents that can understand a goal, inspect a project, act, and verify the result. That shift made AI feel less like a passive assistant and more like a new way of working.
+
+What stood out:
+Claude Code made Agentic AI practical. Its gather, act, and verify loop felt less like using a search tool and more like working with a junior technical teammate—capable, but still dependent on clear instructions, sensible boundaries, and thoughtful review.
+
+Skills showed me how to turn isolated prompts into repeatable workflows, while subagents demonstrated the value of specialization across security, cost optimization, and infrastructure tasks. I also learned that model choice should reflect the complexity of the work.
+
+MCP, hooks, and permissions reinforced an equally important lesson: an agent’s access should match its responsibility. Memory then connected it all by preserving project decisions and lessons across sessions.
+
+What I learned about myself:
+I learn best by doing. Working directly with terminal commands has increased my confidence, and one proud moment I will not easily forget was fixing an error simply by slowing down and reading the output carefully.
+
+My biggest takeaway is simple: Agentic DevOps does not remove engineering responsibility—it raises the standard for it. The more an agent can do, the more intentional I must be about goals, access, review, and verification.
+
+Agentic AI is not valuable simply because it can act; it becomes valuable when we design those actions with purpose, context, and control. I am leaving Week 2 more confident, more curious, and more willing to learn by doing. 
+
+I remain grateful to Pravin Mishra.
+
+What has helped you become more comfortable working with AI agents?
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/e_AT7QxG · Start your DevOps journey: https://lnkd.in/eQXMUNpV
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://lnkd.in/p/eYerwv_P`
 
 ---
 
