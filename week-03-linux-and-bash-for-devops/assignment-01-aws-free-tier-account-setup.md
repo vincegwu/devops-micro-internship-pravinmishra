@@ -58,6 +58,8 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 ![screenshot1](screenshots/AWS-Free-Tier-Account.png)
 
+![screenshot1a](screenshots/Whatsapp-status.png)
+
 ---
 
 # Submission Instructions
