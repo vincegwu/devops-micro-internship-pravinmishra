@@ -20,20 +20,20 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+    An AWS account is a personal or organizational gateway to Amazon Web Services, allowing one to create, manage, and pay for cloud resources. It is essential in DevOps because it provides the infrastructure and tools for automation, continuous integration/continuous deployment (CI/CD), and scalability.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
-
+The AWS Free Tier is AWS way of helping new users explore AWS services at no cost within certain usage limits. It lasts for 12 months from the date the new user creates an account, with some services always free and others offering short-term trials.
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
-
+1. Amazon EC2 - 750 hours/month of t2.micro or t3.micro instances.
+2. Amazon S3 - 5 GB of standard storage
+3. Amazon RDS - 750 hous/month of db.t2.micro or db.t3.micro usage with 20 GB storage
 ---
 
 # Task 2 — Create AWS Free Tier Account
@@ -56,7 +56,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![screenshot1](screenshots/AWS-Free-Tier-Account.png)
 
 ---
 
