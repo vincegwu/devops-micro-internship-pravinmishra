@@ -133,7 +133,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engin
 
 ### LinkedIn Post Link:
 
-`https://lnkd.in/p/eYerwv_P`
+`https://www.linkedin.com/posts/egwu-oko_dmibypravinmishra-agenticai-claudecode-ugcPost-7505918543453089792-Efri/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 

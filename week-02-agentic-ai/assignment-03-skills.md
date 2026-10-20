@@ -94,7 +94,7 @@ Paste your forked repository URL here:
 
 ## LinkedIn post URL
 
-`https://lnkd.in/p/ewxUKrWv`
+`https://www.linkedin.com/posts/egwu-oko_dmibypravinmishra-agenticai-claudecode-ugcPost-7498085135507030017-K18N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 ---
 
 # Completion Checklist
