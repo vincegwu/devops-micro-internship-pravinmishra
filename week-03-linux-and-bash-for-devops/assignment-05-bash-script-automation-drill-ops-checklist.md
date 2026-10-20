@@ -435,7 +435,7 @@ A script combines variables, arrays, loops, conditionals, files, and functions b
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/ewB98aXb`
+`https://www.linkedin.com/posts/egwu-oko_bashscripting-automation-linux-ugcPost-7514412910979366912-qDMo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 

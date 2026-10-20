@@ -514,7 +514,7 @@ Gather facts, Act, Recommend Action
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/e7QRNdYA`
+`https://www.linkedin.com/posts/egwu-oko_devops-linux-automation-ugcPost-7516146516579864576-dOBB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 

@@ -120,7 +120,7 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/eV7Pgysn`
+`https://www.linkedin.com/posts/egwu-oko_devops-linux-cloudengineering-share-7512179908245123086--cHa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 

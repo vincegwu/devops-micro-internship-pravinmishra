@@ -387,7 +387,7 @@ Unused cloud resources should be shut down because they waste money, increase se
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/eM6c-5fV`
+`https://www.linkedin.com/posts/egwu-oko_productionmaintenance-sitereliabilityengineering-ugcPost-7511886247745921024-x5A0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs`
 
 ---
 
