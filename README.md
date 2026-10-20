@@ -133,7 +133,7 @@ Week 03 → Linux & Bash for DevOps
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/egwu-oko_dmi-devops-micro-internship-with-agentic-share-7493673851269312514-MbAB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs | https://medium.com/@egwuoko76/egwu-oko-the-devops-engineer-quietly-rewriting-west-africas-reliability-story-e2366478e94b |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/egwu-oko_dmibypravinmishra-agenticai-claudecode-ugcPost-7505918543453089792-Efri/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs | https://medium.com/@egwuoko76/when-ai-stops-suggesting-and-starts-doing-my-week-2-in-agentic-devops-5c0e5f0efec8 |
 | 03 | Linux & Bash for DevOps | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/egwu-oko_devops-linux-automation-ugcPost-7516146516579864576-dOBB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2bJAB3kAupCs3BrMdP2uO4qDEMg0CtSs | https://medium.com/@egwuoko76/what-building-an-ai-assisted-incident-workflow-taught-me-about-devops-bfb3e8b1a894 |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
