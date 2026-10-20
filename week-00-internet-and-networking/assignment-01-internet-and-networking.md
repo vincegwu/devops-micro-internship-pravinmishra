@@ -266,7 +266,7 @@ I successfully downloaded and set up my VS Code environment for the tasks ahead.
 #AWS 
 #DevOps for beginners
 
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/e_AT7QxG · Start your DevOps journey: https://lnkd.in/eBFJtRPf
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/vincegwu.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 ---
 
